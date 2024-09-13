@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauriprasad2000
-- 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in DEVOPS
+- 🌱 I’m currently learning DEVOPS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . gauriprasad302@gmail.com
 
